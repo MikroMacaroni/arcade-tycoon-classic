@@ -3,7 +3,7 @@ Original Release (C) 2019-2021 DASHY Studios
 
 Official Game Link: https://www.roblox.com/games/6597039179/Arcade-Tycoon-Classic
 
-This game MAY be used for ANY PURPOSE, as long as you give credit to DASHY Studios, the original creator of this game.
+This game MAY be changed and used for ANY PURPOSE, as long as you give credit to DASHY Studios, the original creator of this game.
 
 Game concept, modeling, and scripts by SkylarZYX. Tycoon scripts scripted by Zednov (along with the help of free modeled scripts too)
 
