@@ -9,7 +9,7 @@ Game concept, modeling, and scripts by SkylarZYX. Tycoon scripts scripted by Zed
 
 Additional building and modeling help by hey_dudeface (ToastySkater)
 
-Not all assets, models in this game are from us, some are from the Roblox model library, some are from free models, or some are from other games.
+Not all assets in this game are from us, some are from the Roblox model library, some are from free models, or some are from other games.
 
 THERE ARE A TON OF FLAWS IN TERMS OF ASSET DESIGN, ASSET ORGANIZATION, OPTIMIZATIONS, SCRIPTING ORGANIZATION, ETC.
 
